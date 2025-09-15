@@ -6,7 +6,8 @@ Esp32 Bluetooth HID on Android &amp; PC Through WiFi Webserver
 <img src="https://raw.githubusercontent.com/esp32king/Esp32-Ble-Android-Pc-HID/refs/heads/main/Files/IMG/cdfjk.jpg"></img>
 # Code Flash
 Flash Here 👉 <a href="https://esptool.spacehuhn.com">Esptool.spacehuhn.com</a>
-# 2nd Step
+
+### 2nd Step
 <a href="https://github.com/esp32king/Esp32-Ble-Android-Pc-HID/releases/download/Esp32-BLE-Android-Pc-HID/bootloader.bin">bootloader.bin</a> → 0x1000
 
 <a href="https://github.com/esp32king/Esp32-Ble-Android-Pc-HID/releases/download/Esp32-BLE-Android-Pc-HID/partitions.bin">partitions.bin</a> → 0x8000
