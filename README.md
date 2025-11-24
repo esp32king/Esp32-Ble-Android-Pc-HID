@@ -22,7 +22,7 @@ After done connect phone/PC with esp32 bluetooth ( Turu❤Love) name
   WiFi Name/ssid ---  Your WiFi
   WiFi Pass      --- secret61
 
-bluetooth name --- Turu ❤ Love
+  bluetooth name --- Turu ❤ Love
 ```
 After Connected go to <a href="http:192.168.4.1/">192.168.4.1</a> 👈 here
 
