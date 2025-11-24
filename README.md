@@ -18,13 +18,18 @@ After done connect phone/PC with esp32 bluetooth ( Turu❤Love) name
 
 
 ### 📡 WiFi Connecting
+```
   WiFi Name/ssid ---  Your WiFi
 <br>WiFi Pass      --- secret61</br>
 
 <br>bluetooth name --- Turu ❤ Love</br>
-
+```
 After Connected go to <a href="http:192.168.4.1/">192.168.4.1</a> 👈 here
 
+### Tested Devices
+```
+Xiaomi REDMI 
+```
 ### created by Krishna Rajput UP61
 
 ⚠ Warning this is only for education purpose don't harm anyone device otherwise you responsible for that
