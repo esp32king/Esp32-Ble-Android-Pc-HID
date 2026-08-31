@@ -7,10 +7,15 @@ Esp32 Bluetooth HID on Android &amp; PC Through WiFi Webserver
 <img src="https://raw.githubusercontent.com/esp32king/Esp32-Ble-Android-Pc-HID/refs/heads/main/Files/IMG/cdfjk.jpg"></img>
 
 # 📹 Video Link
-Shorts 
-```https://youtube.com/shorts/_mPAB-ZNW9A?si=BixPA_QRzBwA9DDv```
-Full video 
-```https://youtu.be/up9fcNwsiqg?si=RZx2Mu6fMVL3ieKx```
+
+```Shorts ```
+https://youtube.com/shorts/_mPAB-ZNW9A?si=BixPA_QRzBwA9DDv
+
+
+```Full video ```
+
+
+https://youtu.be/up9fcNwsiqg?si=RZx2Mu6fMVL3ieKx
 
 # Code Flash
 Flash Here 👉 <a href="https://esptool.spacehuhn.com">Esptool.spacehuhn.com</a>
